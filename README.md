@@ -11,30 +11,11 @@
   <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"/>
 </p>
 
-## ⚙️ Before Started
+## 데모페이지
 
-#### <img alt="Tip" src="https://img.shields.io/static/v1.svg?label=&message=Tip&style=flat-square&color=673ab8"> 로컬에서 서버 띄워서 손쉽게 static resources 변경 및 확인하는 방법
-
-로컬에서 웹서버를 띄워 html, css, js 등을 실시간으로 손쉽게 테스트해 볼 수 있습니다. 이를 위해서는 우선 npm이 설치되어 있어야 합니다. 구글에 `npm install` 이란 키워드로 각자의 운영체제에 맞게끔 npm을 설치해주세요. 이후 아래의 명령어를 통해 실시간으로 웹페이지를 테스트해볼 수 있습니다.
-
-```
-npm install -g live-server
-```
-
-실행은 아래의 커맨드로 할 수 있습니다.
-
-```
-live-server 폴더명
-```
-
+[자동차 경주 게임 데모페이지🏎](https://cks3066.github.io/javascript-racingcar/)
 <br>
 
-## 📍 학습 목표
-
-- Github 기반으로 온라인 코드 리뷰하는 경험
-- 코딩 컨벤션을 준수하며 개발하는 경험
-- E2E 테스트를 작성하며 개발하는 경험
-- 함수(또는 메서드)를 분리하는 리팩토링 경험
 
 ## 🎯 기능 요구사항
 
@@ -69,24 +50,5 @@ live-server 폴더명
 - 전역변수를 만들지 않는다.
 - 외부 라이브러리(jQuery, Lodash 등)를 사용하지 않고, 순수 Vanilla JS로만 구현한다.
 
-## 📝 과제 진행 요구사항
-
-- 기능 목록 및 commit 로그 요구사항
-- 기능을 구현하기 전에 README.md 파일에 구현할 기능 목록을 정리해 추가한다.
-- git의 commit 단위는 앞 단계에서 README.md 파일에 정리한 기능 목록 단위로 추가한다.
-
-## 👏 Contributing
-
-만약 미션 수행 중에 개선사항이 보인다면, 언제든 자유롭게 PR을 보내주세요.
-
 <br>
 
-## 🐞 Bug Report
-
-버그를 발견한다면, [Issues](https://github.com/woowacourse/javascript-racingcar/issues) 에 등록 후 @eastjun에게 dm을 보내주세요.
-
-<br>
-
-## 📝 License
-
-This project is [MIT](https://github.com/woowacourse/javascript-racingcar/blob/main/LICENSE) licensed.
